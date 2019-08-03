@@ -9,5 +9,5 @@ spring:
 env:
   dev4
 girl:
-  name: zhangsan
+  name: lisi
   age: 20
